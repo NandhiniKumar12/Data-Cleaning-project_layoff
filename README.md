@@ -40,7 +40,7 @@ The entire data cleaning process was executed using SQL queries within a **MySQL
 ### Datasets
 
 - **Uncleaned Dataset**: [[Link to Uncleaned Data]](https://github.com/NandhiniKumar12/Data-Cleaning-project_layoff/blob/main/layoffs.csv)(#)
-- **Cleaned Dataset**: [Link to Cleaned Data](#)
+- **Cleaned Dataset**: [Link to Cleaned Data]https://github.com/NandhiniKumar12/Data-Cleaning-project_layoff/blob/main/cleaned%20data_layoff.csv(#)
 
 ### Conclusion
 
